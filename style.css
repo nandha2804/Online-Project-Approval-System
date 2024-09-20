@@ -1,6 +1,6 @@
 .boo {
   /* background-image: url('/src/bg1c.jpg');  */
-  background: url("/src/bg1c.jpg");
+  background: url("src/bg1c.jpg");
   background-size: cover; 
   background-repeat: no-repeat; 
   background-attachment: fixed; 
@@ -64,7 +64,7 @@ footer {
 
 
 .bo {
-  background-image: url('/src/bg11.jpg'); 
+  background-image: url('src/bg11.jpg'); 
   background-size: cover; 
   background-repeat: no-repeat; 
   background-attachment: fixed; 
@@ -78,7 +78,7 @@ footer {
   justify-content: center;
 }
 .fac{
-  background-image: url('/src/faculity1.jpg'); 
+  background-image: url('src/faculity1.jpg'); 
   background-size: cover; 
   background-repeat: no-repeat; 
   background-attachment: fixed; 
@@ -92,7 +92,7 @@ footer {
   justify-content: center;
 }
 .std{
-  background-image: url('/src/students.jpg'); 
+  background-image: url('src/students.jpg'); 
   background-size: cover; 
   background-repeat: no-repeat; 
   background-attachment: fixed; 
